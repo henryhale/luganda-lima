@@ -4,6 +4,7 @@
 ![Language](https://img.shields.io/badge/language-Luganda-blue)
 ![Conversations](https://img.shields.io/badge/conversations-685-green)
 [![LIMA paper](https://img.shields.io/badge/arXiv-2305.11206-b31b1b?logo=arxiv)](https://arxiv.org/abs/2305.11206)
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
 
 A small set of synthetic, multi-turn Luganda user–assistant conversations for
 LIMA-style (*Less Is More for Alignment*) fine-tuning.
@@ -31,3 +32,8 @@ are in `data/`; rebuild with `python preprocess.py`.
 Conversations were generated with ChatGPT 5.5 (OpenAI), Gemini 3.8 Flash (Google)
 and Qwen3.7-Plus (Alibaba Qwen team). The name follows [LIMA: Less Is More for
 Alignment](https://arxiv.org/abs/2305.11206) (Zhou et al., 2023).
+
+## License
+
+[CC BY 4.0](LICENSE). The text is model-generated; use must also comply with the
+terms of the models listed above.
