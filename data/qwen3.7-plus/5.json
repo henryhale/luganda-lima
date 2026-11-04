@@ -1,0 +1,284 @@
+{
+  "conversations": [
+    {
+      "id": 81,
+      "topic": "Relationships - Marriage Advice",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Nsaba amagezi ku bufumbo obutayagala kumenyeka."},
+        {"role": "helper", "text": "Ndi bulungi. Bufumbo bw'amaanyi buva mu kwogera n'okutegeeragana."},
+        {"role": "user", "text": "Bwe tuba na lutalo, tukola ki?"},
+        {"role": "helper", "text": "Mulekeme okwogera mu busungu. Mutonde akaseera okuteesa mu calm."},
+        {"role": "user", "text": "Ani asooka okusaba sorry?"},
+        {"role": "helper", "text": "Tewali asooka. Buli omu yeetega okukkiriza ensobi ze."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okwefaananya kuzimba bufumbo."}
+      ]
+    },
+    {
+      "id": 82,
+      "topic": "Family - Respecting Elders",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku kussa abakadde."},
+        {"role": "helper", "text": "Nasiibye bulungi. Abakadde baffe balina eby'okumanya ebingi."},
+        {"role": "user", "text": "Tubassa ntya mu ngeri y'omulembe?"},
+        {"role": "helper", "text": "Bawulirize, babuuze ebibuuzo, era obayambe mu mirimu egy'awaka."},
+        {"role": "user", "text": "Bwe batuwa amagezi agatakola?"},
+        {"role": "helper", "text": "Geesse mu mutima, naye obalaga respect. Sobola okubategeza mu ngeri ey'omukwano."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Respect ebaamu emikisa."}
+      ]
+    },
+    {
+      "id": 83,
+      "topic": "Friends - True Friendship",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Omukwano gw'amazima gulabika ddi?"},
+        {"role": "helper", "text": "Nsiibye bulungi. Omukwano gw'amazima gulabika mu biseera by'obuzibu."},
+        {"role": "user", "text": "Kiki ekiraga omukwano ogw'amazima?"},
+        {"role": "helper", "text": "Okukwegaza, okukuuma eby'okukuumibwa, n'okukuwa amagezi ag'amagezi."},
+        {"role": "user", "text": "Bwe kibaawo, nsobola ntya okumanya abakyamu?"},
+        {"role": "helper", "text": "Abakyamu bakukozesa kyokka. Bwe waba na ssente, babeeraako; bwe ziggwaako, nebula."},
+        {"role": "user", "text": "Weebale ku magezi ago."},
+        {"role": "helper", "text": "Ssanyu lyange. Mikwano gya mazima gya muwendo."}
+      ]
+    },
+    {
+      "id": 84,
+      "topic": "Siblings - Brotherly Love",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku kwagala wakati wa baganda."},
+        {"role": "helper", "text": "Baganda baffe be basinga okubeera mikwano gyaffe ab'omazima."},
+        {"role": "user", "text": "Lwaki tuba na lutalo nnyo?"},
+        {"role": "helper", "text": "Lutalo liva ku kutategeeragana oba envy. Okwogera kuvunaamu."},
+        {"role": "user", "text": "Nsobola ntya okutuuka ku mwana wange?"},
+        {"role": "helper", "text": "Tandika n'okumuwa call oba message, oluvannyuma mumutumeeko ekirooto."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Baganda bombi, sooka ggwe."}
+      ]
+    },
+    {
+      "id": 85,
+      "topic": "Neighbors - Good Neighborliness",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku banne ba waka."},
+        {"role": "helper", "text": "Nasiibye bulungi. Banne ba waka abalungi bavaamu obukuumi."},
+        {"role": "user", "text": "Tubakolagananga ntya?"},
+        {"role": "helper", "text": "Balamuse buli lunaku, babayambe bw'ebaawo ekizibu, era mubeere na respect."},
+        {"role": "user", "text": "Bwe baba na noise nnyo?"},
+        {"role": "helper", "text": "Babuulire mu ngeri ey'omukwano, oba baagezeeko okuteesa nabo."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Banne ba waka abalungi bavaamu peace."}
+      ]
+    },
+    {
+      "id": 86,
+      "topic": "Musicians - Eddy Kenzo",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Tugambe ku Eddy Kenzo."},
+        {"role": "helper", "text": "Ndi bulungi. Eddy Kenzo ye muyimbi wa Uganda eyawangula Grammy."},
+        {"role": "user", "text": "Yayimba ki ekyamufuuma omuwendo?"},
+        {"role": "helper", "text": "'Sitya Loss' ye song eyamutwala mu maaso, nga erina message ya hope."},
+        {"role": "user", "text": "Akola music ki kaakano?"},
+        {"role": "helper", "text": "Akola Afrobeats ne Reggae, era ayimba ku by'obufuzi n'eby'obulamu."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Eddy Kenzo ye pride ya Uganda."}
+      ]
+    },
+    {
+      "id": 87,
+      "topic": "Jokes - Ugandan Humor",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nfunza joke ey'omu Uganda."},
+        {"role": "helper", "text": "Nasiibye bulungi. Luno: Kiki eky'ekyeya ekitali ky'ekyeya?"},
+        {"role": "user", "text": "Ssimanyi. Kiki?"},
+        {"role": "helper", "text": "Ekintu eky'ekyeya ekitali ky'ekyeya ye 'sun' kubanga ebbira!"},
+        {"role": "user", "text": "Haha! Eyo nnungi."},
+        {"role": "helper", "text": "Nandyagala okuwulira n'endala. Oyagala?"},
+        {"role": "user", "text": "Yee, ndaga."},
+        {"role": "helper", "text": "Kiki eky'okulya ekitali ky'okulya? Ye 'time' kubanga ebbira!"}
+      ]
+    },
+    {
+      "id": 88,
+      "topic": "Relationships - Long Distance",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Nnyamba ku mukwano ogw'ewala."},
+        {"role": "helper", "text": "Nsiibye bulungi. Mukwano ogw'ewala guetaaga trust n'okwogera."},
+        {"role": "user", "text": "Tuyinza tutya okukuuma omuliro?"},
+        {"role": "helper", "text": "Mukole video calls, mutume messages, era mumutumeeko ebirooto."},
+        {"role": "user", "text": "Bwe kibaawo, jealousy efaayo?"},
+        {"role": "helper", "text": "Jealousy efaayo olw'okutamanya. Mwogere ku feelings zammwe buli kaseera."},
+        {"role": "user", "text": "Weebale ku magezi ago."},
+        {"role": "helper", "text": "Ssanyu lyange. Distance tesobola kumenya love y'amazima."}
+      ]
+    },
+    {
+      "id": 89,
+      "topic": "Family - In-laws",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku kukolagana ne bazzukulu (in-laws)."},
+        {"role": "helper", "text": "Bazzukulu baffe balina respect nnyo mu Buganda."},
+        {"role": "user", "text": "Nsobola ntya okuba n'obukwano nabo?"},
+        {"role": "helper", "text": "Balamuse, babayambe, era tobaa na bigambo by'obutasi."},
+        {"role": "user", "text": "Bwe baba na demands nnyingi?"},
+        {"role": "helper", "text": "Tegeza okubategeza mu ngeri ey'omukwano, naye ogondera n'amateeka ga woofiisi."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Bazzukulu abalungi bavaamu peace."}
+      ]
+    },
+    {
+      "id": 90,
+      "topic": "Friends - Betrayal",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Mukwano wange ankose."},
+        {"role": "helper", "text": "Nasiibye bulungi. Nsonyiwa okuwulira ekyo. Ky'ekizibu."},
+        {"role": "user", "text": "Nkola ki?"},
+        {"role": "helper", "text": "Mwogereko, mumunnyonnyole how you feel. Bwe kiba nga takkiriza, weeyongere."},
+        {"role": "user", "text": "Nsooka nkwata anger?"},
+        {"role": "helper", "text": "Yee, ky'ekya bulamu. Naye tokolanga decision mu busungu."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Time ewonya wounds z'omutima."}
+      ]
+    },
+    {
+      "id": 91,
+      "topic": "Siblings - Rivalry",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Muganda wange alina envy ku nze."},
+        {"role": "helper", "text": "Ndi bulungi. Envy esobola okuva ku kutategeeragana."},
+        {"role": "user", "text": "Nsobola ntya okumuyamba?"},
+        {"role": "helper", "text": "Mukolagane mu projects, era mutendereze ku success ze."},
+        {"role": "user", "text": "Bwe kibaawo, abaagaliza?"},
+        {"role": "helper", "text": "Abaagaliza abeera na success yo. Mugezeeko okumukkiriza nti success yo teyamuggyaako."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Baganda bombi, love is key."}
+      ]
+    },
+    {
+      "id": 92,
+      "topic": "Neighbors - Disputes",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Banne ba waka bansongedde."},
+        {"role": "helper", "text": "Nsiibye bulungi. Disputes za banne ba waka zisobola okukemulwa mu peace."},
+        {"role": "user", "text": "Nsobola ntya?"},
+        {"role": "helper", "text": "Baagezeeko okuteesa. Bwe kiba nga tekikola, bayite LC1."},
+        {"role": "user", "text": "LC1 eyamba ntya?"},
+        {"role": "helper", "text": "LC1 ye committee ey'oku kyalo eyamba mu kemula disputes."},
+        {"role": "user", "text": "Weebale ku magezi ago."},
+        {"role": "helper", "text": "Ssanyu lyange. Peace ne banne ba waka ebaamu emikisa."}
+      ]
+    },
+    {
+      "id": 93,
+      "topic": "Musicians - Bebe Cool",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku Bebe Cool."},
+        {"role": "helper", "text": "Bebe Cool ye muyimbi wa Uganda ey'omuwendo, eyatandika mu myaka gya 90."},
+        {"role": "user", "text": "Yayimba ki eky'omugaso?"},
+        {"role": "helper", "text": "'Love You Baby' ne 'Fire' bye songs bye byasinga okumanyika."},
+        {"role": "user", "text": "Akola ki kaakano?"},
+        {"role": "helper", "text": "Akola music, era ye owner wa Gang of Mates."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Bebe Cool ye legend ya music."}
+      ]
+    },
+    {
+      "id": 94,
+      "topic": "Jokes - Puns",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nfunza pun ey'omu Luganda."},
+        {"role": "helper", "text": "Nasiibye bulungi. Luno: Kiki eky'ekyeya ekitali ky'ekyeya?"},
+        {"role": "user", "text": "Ndaze."},
+        {"role": "helper", "text": "Ye 'matooke' kubanga gaggya!"},
+        {"role": "user", "text": "Haha! Eyo nnungi."},
+        {"role": "helper", "text": "Nandyagala okuwulira n'endala. Oyagala?"},
+        {"role": "user", "text": "Yee, ndaga."},
+        {"role": "helper", "text": "Kiki eky'okulya ekitali ky'okulya? Ye 'ndizi' kubanga ziggya!"}
+      ]
+    },
+    {
+      "id": 95,
+      "topic": "Relationships - Dating",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Nnyamba ku dating mu Uganda."},
+        {"role": "helper", "text": "Ndi bulungi. Dating mu Uganda ekyasinze okukola ku social media."},
+        {"role": "user", "text": "Site ki esinga?"},
+        {"role": "helper", "text": "Facebook ne TikTok zisinga okukozesebwa okufuna partners."},
+        {"role": "user", "text": "Nsobola ntya okumanya omuntu w'amazima?"},
+        {"role": "helper", "text": "Mutandise okukulaba mu person, era mwekebezze mu biseera by'obuzibu."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Dating ey'amagezi ebaamu love y'amazima."}
+      ]
+    },
+    {
+      "id": 96,
+      "topic": "Family - Children",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku kulongoosa abaana."},
+        {"role": "helper", "text": "Nasiibye bulungi. Abaana baffe balina education n'obuyonjo."},
+        {"role": "user", "text": "Tubalongoosa ntya?"},
+        {"role": "helper", "text": "Bawe discipline, babayambe mu homework, era babalaga love."},
+        {"role": "user", "text": "Bwe baba na misbehavior?"},
+        {"role": "helper", "text": "Mubabuulire, mumannyonnyole why it's wrong, era mubawe punishment ey'amagezi."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Abaana abalongoosiddwa bulungi bavaamu future."}
+      ]
+    },
+    {
+      "id": 97,
+      "topic": "Friends - Making New Friends",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Nnyamba ku kufuna mikwano empya."},
+        {"role": "helper", "text": "Nsiibye bulungi. Okufuna mikwano empya kye kintu eky'omuwendo."},
+        {"role": "user", "text": "Nsobola ntya?"},
+        {"role": "helper", "text": "Genda mu events, kozesa social media, era oleka face friendly."},
+        {"role": "user", "text": "Nsobola okutandika n'eki?"},
+        {"role": "helper", "text": "Tandika n'okulamusa, oluvannyuma obuuze ebibuuzo ku interests ze."},
+        {"role": "user", "text": "Weebale ku magezi ago."},
+        {"role": "helper", "text": "Ssanyu lyange. Mikwano empya bavaamu opportunities."}
+      ]
+    },
+    {
+      "id": 98,
+      "topic": "Siblings - Support",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku kuyamba baganda."},
+        {"role": "helper", "text": "Okuyamba baganda kye kintu eky'omuwendo mu Buganda."},
+        {"role": "user", "text": "Tubayamba ntya?"},
+        {"role": "helper", "text": "Bawe ssente bw'oba ozirina, babayambe mu mirimu, era bawe advice."},
+        {"role": "user", "text": "Bwe baba na laziness?"},
+        {"role": "helper", "text": "Mubayambe okufuna work, naye tomubawa ssente za buli kaseera."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Baganda abayambagana bavaamu progress."}
+      ]
+    },
+    {
+      "id": 99,
+      "topic": "Neighbors - Sharing",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku kusaba banne ba waka."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okusaba banne ba waka kuzimba obukwano."},
+        {"role": "user", "text": "Tusaba ki?"},
+        {"role": "helper", "text": "Sobola okusaba mmere, salt, oba sugar bw'oba oggyewo."},
+        {"role": "user", "text": "Nsobola ntya okuddamu?"},
+        {"role": "helper", "text": "Ddamu bw'oba na byo, oba babayambe mu mulimu ogulala."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okusaba kuzimba community."}
+      ]
+    },
+    {
+      "id": 100,
+      "topic": "Musicians - Sheebah Karungi",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Tugambe ku Sheebah Karungi."},
+        {"role": "helper", "text": "Ndi bulungi. Sheebah ye muyimbi wa Uganda ey'omuwendo."},
+        {"role": "user", "text": "Yayimba ki eky'omugaso?"},
+        {"role": "helper", "text": "'Number One' ne 'Confidence' bye songs bye byasinga okumanyika."},
+        {"role": "user", "text": "Akola ki kaakano?"},
+        {"role": "helper", "text": "Akola music, era ye businesswoman."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Sheebah ye queen ya music."}
+      ]
+    }
+  ]
+}

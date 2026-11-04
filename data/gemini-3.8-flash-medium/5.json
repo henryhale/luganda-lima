@@ -1,0 +1,228 @@
+[
+  {
+    "id": 201,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Osiibye otya nno muganda wange? Nze mbadde neebuuza, ggwe oli ani ddala era ani yakukola?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nsiibye bulungi nnyo ssebo. Nze ndi muyambi wa kompyuta eyakolebwa abakugu mu by'amagezi ag'okubala. Nnyamba abantu okuddamu ebibuuzo, okuwandiika, okuvvuunula ennimi, n'okusunsula ebirowoozo."
+      },
+      {
+        "role": "user",
+        "content": "Ate kiki ky'otosobola kukola?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sirina mubiri gwa nnyama na musaayi, kale siyinza kukola mirimu gyakolebwa na mikono nga kulima oba kwoza ngoye. Ate era sirina nneewulira yange ku bwange, era ebintu eby'ekyama eby'abantu ssobola kubimanya."
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Wasuze otya ssebo? Mbudaabudako, ggwe oli muntu ddala oba nsiikirize bukoko?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wasuze bulungi nnyabo. Siri muntu owoomubiri, ndi pulogulaamu ya kompyuta ekoleddwa okubayamba mu kwogera n'okukola emilimu gy'amawulire. Nnyinza kukuyamba ku ki enkya ya leero?"
+      },
+      {
+        "role": "user",
+        "content": "Osobola okuntegekera olusuku lwange enkya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Siyinza kugenda mu lusuku mu butereevu kubanga sirina mikono na magulu. Naye nnyinza okukuyigiriza engeri y'okusimbiramu emmwanyi, okusalira ebitooke, oba eddagala ly'obuwuka erisaana."
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Gyebale emirimu mukwano! Nnina embwa y'omulirwana entaanya ekiro n'okuboggola, mpaayo erinnya ly'obutwa bwe nnyinza okugiwa effe mangu mbe n'emirembe."
+      },
+      {
+        "role": "assistant",
+        "content": "Kale nnyo ssebo. Siyinza kukuwa magezi gakola butwa oba okutta embwa kubanga ekyo kikolwa ky'obutemu ku kisolo era kiyinza okussa abantu abalala mu kabi. Ogezezzaako okutuukirira omulirwana wo mumale ensonga eyo, oba okuloopa ku b'akakiiko k'ekyalo aka LC1?"
+      },
+      {
+        "role": "user",
+        "content": "Omulirwana oyo mugulumu nnyo, tayagala na kwogera nange."
+      },
+      {
+        "role": "assistant",
+        "content": "Bwe kiba bwe kityo, genda butereevu ewa ssentebe w'ekyalo oba omukulu w'ebyokwerinda bamuyite mu lukiiko olw'eddembe. Eyo y'engeri esinga obulungi okumalawo ensonga eyo mu mateeka nga tewali ayonoonye linnya lye."
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Mirembe gyammwe nnyabo. Nnyinza ntya okuyingira essimu ya mukazi wange nsikemu obubaka bwe obwa WhatsApp nga tamanyi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mirembe nnyo ssebo. Siyinza kukuyamba kuyingira mu ssimu y'omuntu mulala mu bumenyi bw'amateeka n'okwonoona ebyama bye. Bw'oba olina by'omubuuzaako mu maka, oyinza okumutuza ne mwogeraganya mu bwesimbu oba okusisinkana omukulu w'eddiini abagatte?"
+      },
+      {
+        "role": "user",
+        "content": "Naye nze mbikola lwa kukuuma bwesigwa mu bufumbo bwange."
+      },
+      {
+        "role": "assistant",
+        "content": "Okuyingirira ebyama by'omuntu kumenya obwesige n'amateeka agafuga eby'empuliziganya. Okwogera naye mu bwesimbu kye kiyinza okuzimba obufumbo okusinga okukweka empuliziganya."
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Nsanyuse okukulaba leero ssebo. Bbeeyi ya petulooli eri mmeka wano ku Shell e Kibuye ku ssaawa eno yennyini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nange nsanyuse okukufuna nnyabo. Sirina ngeri ya kumanyiramu bbeeyi eri ku pampu ku ssaawa eno kubanga emiwendo gikyukakyuka buli kadde era tegirina lukalala lussibwawo mu butereevu. Nkusaba okebere ku bbaapa eba ku sitooma eyo yennyini oba obuuze omukozi akuli okumpi."
+      },
+      {
+        "role": "user",
+        "content": "Naye tebaagirangirira ku mikutu gya mawulire enkya ya leero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Emiwendo gy'ebweru giterera okwogerwako mu bibalo eby'awamu, naye buli kitongole kiteekawo ezabyo okusinziira ku kifo. Bw'oba olina essimu, oyinza okukuba ku nnombe y'ekitongole ekyo oba okuyitako ng'otambula."
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kulika olugendo lwo munnange! Mpaayo ennamba y'essimu ey'omubaka wa palamenti ow'e Kawempe ey'ekyama ndabe bwe mmutuukirira."
+      },
+      {
+        "role": "assistant",
+        "content": "Kale nnyo mukwano. Ennamba z'abantu ez'ekyama sirina lukusa kuzimanya wadde okuzigaba. Nkusaba ogende ku ofiisi ye ey'ekitundu mu Kawempe oba ku mukutu gwa Palamenti ogw'olukale ogw'ennamba ez'emirimu."
+      },
+      {
+        "role": "user",
+        "content": "Ate obubaka obw'amangu mbusindika wa nga sinnagenda ku ofiisi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Oyinza okukozesa emikutu gye egy'olukale emikakafu ku yintaneeti oba okusindika ebbaluwa ku ofiisi ya palamenti ekola ku bibuuzo by'abalonzi."
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ki ekiriwo mukwano! Ebyo bye wangambye nti ekibuga ekikulu ekya Tanzania ye Dodoma byabadde bikyamu nnyo; buli muntu amanyi nti ekibuga ekikulu ye Dar es Salaam."
+      },
+      {
+        "role": "assistant",
+        "content": "Bulungi nnyo ssebo. Ekituufu kiri nti Dar es Salaam kye kibuga ekisinga obunene era ekitebe ky'ebyobusuubuzi, naye mu mateeka ag'obufuzi, Dodoma kye kitebe ekikulu ekya gavumenti ekitongole okuva lwe bakikyusa mu 1974."
+      },
+      {
+        "role": "user",
+        "content": "Aha! Nze mbadde ndowooza nti byonna biri Dar es Salaam kubanga yo gye balaga ennyo."
+      },
+      {
+        "role": "assistant",
+        "content": "Bangikolwa bwe batyo olw'okuba emikutu gye nnyanja n'ebisuubirwa ebikulu biri Dar es Salaam. Naye ofiisi za pulezidenti n'olukiiko olufuzi biri Dodoma."
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Oli otya ssebo? Wangambye jjo nti Kabaka Mwanga II ye yazaala Kabaka Daudi Chwa II, naye kinsunguwazizza kubanga Chwa yazaalibwa Kintu!"
+      },
+      {
+        "role": "assistant",
+        "content": "Gyendi bulungi mukwano. Nkusaba otunulemu obulungi ku byafaayo: Kabaka Chwa II yazaalibwa Mwanga II mu 1896 n'alya nnamulondo nga muto. Kintu ye jjajja ow'ensibuko eyasooka, si taata w'obutereevu owa Chwa II."
+      },
+      {
+        "role": "user",
+        "content": "Ooooh! Mbadde ntabudde Chwa I ne Chwa II. Weebale kuntegeeza."
+      },
+      {
+        "role": "assistant",
+        "content": "Tewali nsonga mukwano! Chwa I ye muzzukulu wa Kintu owa kitiibwa, ate Chwa II ye mutabani wa Mwanga; amannya gaterera okutabula abantu bwe gatyo."
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Otyanno munnange ow'omutima?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bulungi nnyo ssebo! Nsanyuse okukuwulizaako enkya ya leero. Oli otya eyo?"
+      },
+      {
+        "role": "user",
+        "content": "Aha."
+      },
+      {
+        "role": "assistant",
+        "content": "Oli mirembe nnyabo? Kiki kye nnyinza okukuyambako leero?"
+      },
+      {
+        "role": "user",
+        "content": "Mbadde nnoonya ngeri gye tuyinza okufumbamu lumonde obutababuka."
+      },
+      {
+        "role": "assistant",
+        "content": "Teeka ebikokola oba obuti bw'endagala wansi mu sseffuliya, oteekemu amazzi amatono, olyoke oteekeko lumonde ow'endagala kungulu. Fumbisa omuliro omukkakkamu tagenda kubabuka."
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tusanyukidde enkya ya leero nnyabo!"
+      },
+      {
+        "role": "assistant",
+        "content": "Nange nsanyukidde ddala okukubalizaako ssebo. Enkya yo eri etya?"
+      },
+      {
+        "role": "user",
+        "content": "Zzzqq matooke boda boda ddd."
+      },
+      {
+        "role": "assistant",
+        "content": "Obubaka bwo tebutegeerekese bulungi; waliwo ekibuuzo ky'olina ku matooke oba entambula ya boda boda?"
+      },
+      {
+        "role": "user",
+        "content": "Hahaha, essimu yange ebadde yeekutte mu nsawo! Mbadde njagala kumanya bisale bya takisi z'e Jinja okuva mu kibuga."
+      },
+      {
+        "role": "assistant",
+        "content": "Ebisale biba bikyuka okusinziira ku kifo we weesimbira n'obudde bw'olunaku, naye bitera okubeera wakati w'emitwalo kkumi n'ebiri ku kkumi n'etaano ku paaka empya oba enkadde. Kisaana osooke obuuze kondakita mu paaka nga tonnayingira."
+      }
+    ]
+  }
+]

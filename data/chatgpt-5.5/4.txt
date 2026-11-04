@@ -1,0 +1,1101 @@
+# Luganda Conversation Dataset — Batch 4
+
+**Conversations 076–125 &#124; 50 conversations**
+
+Each conversation begins with warm greetings and contains 5–8 exchanges between the User and Helper. Topics include daily life, education, relationships, business, culture, travel, and practical problem-solving.
+
+## Conversation 076: Okukola enteekateeka y'okutambula (Planning a Walk)
+
+**User\:** Gyebale ko, mukwano\! Oli otya leero?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo. Ggwe otya?
+
+**User\:** Nange ndi bulungi. Njagala okutambula akawungeezi.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kutambula wa?
+
+**User\:** Njagala kutambula mu kibuga kyaffe.
+
+**Helper\:** Kirungi. Londa ekkubo eritali na ntambula nnyingi era ery'obukuumi.
+
+**User\:** Nja kutambula okumala ebbanga ki?
+
+**Helper\:** Oyinza okutandika n'eddakiika amakumi abiri oba amakumi asatu.
+
+**User\:** Webale nnyo olw'amagezi.
+
+---
+
+## Conversation 077: Okulaba omukwano omulwadde (Visiting a Sick Friend)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi. Ggwe otya?
+
+**User\:** Ndi bulungi. Mukwano gwange mulwadde, njagala okumukyalira.
+
+**Helper\:** Ekyo kirungi. Omanyi obulwadde bw'alina?
+
+**User\:** Nnina okumubuuza, naye njagala okumuleetera ekintu.
+
+**Helper\:** Oyinza okumuleetera ebibala oba ekintu ky'ayagala.
+
+**User\:** Nja kumubuuza oba ayagala abantu okumukyalira.
+
+**Helper\:** Ekyo kirungi. Muwe obudde obumala okuwummula.
+
+---
+
+## Conversation 078: Okuteekateeka ekitabo ky'okusoma (Study Schedule)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuteekateeka enteekateeka y'okusoma.
+
+**Helper\:** Ekyo kirungi. Osoma masomo ki?
+
+**User\:** Nsoma okubala, sayansi, n'ebyafaayo.
+
+**Helper\:** Gabanya obudde bwo wakati w'amasomo ago.
+
+**User\:** Nnyinza okusoma okumala essaawa mmeka buli lunaku?
+
+**Helper\:** Oyinza okuteekawo essaawa bbiri oba ssatu, ng'ofuna n'obudde okuwummula.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 079: Okugula engoye (Buying Clothes)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala kugula ngoye mpya.
+
+**Helper\:** Ekyo kirungi. Oyagala ngoye za kika ki?
+
+**User\:** Njagala kugula ssaati n'empale.
+
+**Helper\:** Kakasa nti olonda engoye ezikwatagana n'obunene bwo.
+
+**User\:** Nnyinza ntya okumanya oba engoye nnungi?
+
+**Helper\:** Gezesa engoye, okebere obulungi bwazo, era olowooze ku bbeeyi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 080: Okuyiga okuvuga pikipiki (Learning to Ride a Motorcycle)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyiga okuvuga pikipiki.
+
+**Helper\:** Ekyo kyetaagisa okwegendereza. Oteekateeka kuyiga wa?
+
+**User\:** Njagala kuyiga ku ssomero eriyigiriza okuvuga.
+
+**Helper\:** Kirungi. Kakasa nti olina ebyambalo eby'obukuumi era ogoberere amateeka g'entambula.
+
+**User\:** Nteekwa kwetegekera ki?
+
+**Helper\:** Yiga amateeka g'entambula era wewegezeemu wansi w'obulagirizi bw'omukugu.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 081: Okukola emmere y'ekyalo (Traditional Food)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi.
+
+**User\:** Njagala okuyiga okufumba emmere ey'ekinnansi.
+
+**Helper\:** Ekyo kirungi. Mmere ki gy'oyagala okuyiga okufumba?
+
+**User\:** Njagala okuyiga okufumba akalo.
+
+**Helper\:** Oyinza okutandika n'okumanya ebintu ebyetaagisa n'engeri y'okutabula obuwunga.
+
+**User\:** Nnyinza ntya okukakasa nti akalo kavudde bulungi?
+
+**Helper\:** Wewegezeemu era ogoberere ebipimo n'obudde bw'okufumba.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 082: Okukola omukwano omupya (Making New Friends)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okufuna emikwano emipya ku ssomero.
+
+**Helper\:** Ekyo kirungi. Otera okwogera n'abayizi abalala?
+
+**User\:** Nedda, oluusi mba ntya okwogera nabo.
+
+**Helper\:** Tandika n'okubalamusa n'okubabuuza ku masomo.
+
+**User\:** Nnyinza ntya okwewala okuba omusirifu?
+
+**Helper\:** Beera ggwe kennyini era weeyongere okwegatta ku mirimu gy'ekibiina.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 083: Okukola pulojekiti y'ebyobulimi (Agricultural Project)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okukola pulojekiti y'ebyobulimi.
+
+**Helper\:** Ekyo kirungi. Pulojekiti yo eri ku ki?
+
+**User\:** Njagala kulima enva endiirwa mu nsuku entono.
+
+**Helper\:** Londa enva endiirwa ezisobola okukula mu mbeera y'ettaka lyo.
+
+**User\:** Nnyinza ntya okufuna ebirime ebirungi?
+
+**Helper\:** Kozesa ensigo ennungi, ettaka erirungi, n'okufukirira okutuufu.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 084: Okukola ku nsonga z'amasannyalaze (Electricity)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi.
+
+**User\:** Emasannyalaze g'awaka gaffe gaggwaamu.
+
+**Helper\:** Nsonyiwa okuwulira ekyo. Ekizibu kiri mu nnyumba yonna?
+
+**User\:** Yee, tewali kitangaala mu bisenge.
+
+**Helper\:** Kakasa nti ebyuma byonna biggiddwako, era obuuze omukugu mu masannyalaze.
+
+**User\:** Nnyinza okukebera waya z'amasannyalaze?
+
+**Helper\:** Nedda, si kya bukuumi. Leka omukugu akebere waya.
+
+**User\:** Webale nnyo olw'okundabula.
+
+---
+
+## Conversation 085: Okusaba omuntu akuwe obuyambi (Requesting Assistance)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okusaba mukwano gwange obuyambi ku mulimu.
+
+**Helper\:** Ekyo kirungi. Mulimu ki gw'olina?
+
+**User\:** Nnina ekiwandiiko kye nnina okumaliriza.
+
+**Helper\:** Mubuulire ekitundu ky'oyagala akuyambeko.
+
+**User\:** Nnyinza ntya okumwebaza oluvannyuma?
+
+**Helper\:** Mwebaze mu bigambo byo ebyesimbu era omwebaze olw'obudde bwe.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 086: Okulambula ekifo eky'ebyafaayo (Historical Site)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okulambula ekifo eky'ebyafaayo.
+
+**Helper\:** Ekyo kirungi. Wandyagadde kugenda wa?
+
+**User\:** Njagala okulaba Kasubi Tombs.
+
+**Helper\:** Ekifo ekyo kirina amakulu mangi mu byafaayo bya Buganda.
+
+**User\:** Nteekwa kwetegekera ki?
+
+**Helper\:** Kebera obudde bw'okukyalirako n'amateeka agagobererwa abagenyi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 087: Okukola ku bizibu by'essimu (Phone Troubleshooting)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Essimu yange terina kifo kimala okutereka bifaananyi.
+
+**Helper\:** Oyinza okuba ng'olina fayiro nnyingi mu ssimu.
+
+**User\:** Nnyinza ntya okwongera ekifo?
+
+**Helper\:** Sangula fayiro z'otakozesa oba otereke ebifaananyi mu kifo ekirala.
+
+**User\:** Nnyinza okubitereka ku kompyuta?
+
+**Helper\:** Yee, oyinza okubikyusa ku kompyuta oba okukozesa ekifo eky'okutereka ku yintaneeti.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 088: Okuteekateeka oluwummula lw'abaana (Children's Holiday)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Abaana bange bali mu luwummula.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kubakolera ki?
+
+**User\:** Njagala okubategekera emirimu egy'okwesanyusa.
+
+**Helper\:** Oyinza okubasomera ebitabo, okubazza mu kifo eky'okuzannyiramu, oba okubayigiriza ebintu ebipya.
+
+**User\:** Nnyinza ntya okubalungamya nga tebalina ssomero?
+
+**Helper\:** Teekawo enteekateeka erimu okusoma, okuzannya, n'okuwummula.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 089: Okukola ku by'obulamu bw'omubiri (Physical Fitness)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okutumbula obulamu bw'omubiri gwange.
+
+**Helper\:** Ekyo kirungi. Otera okukola dduyiro?
+
+**User\:** Nedda, mbadde sikola dduyiro nnyo.
+
+**Helper\:** Tandika n'okutambula oba okukola dduyiro omutono buli lunaku.
+
+**User\:** Nnyinza ntya okwewala okukoowa ennyo?
+
+**Helper\:** Tandika mpola, wummula, era okwongera obudde bw'okukola dduyiro mpola mpola.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 090: Okutegeka ensimbi z'omukolo (Event Budget)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okukola embalirira y'omukolo gwange.
+
+**Helper\:** Ekyo kirungi. Omukolo gw'ekika ki?
+
+**User\:** Njagala kutegeka omukolo gw'amazaalibwa.
+
+**Helper\:** Wandiika ssente z'emmere, ebintu eby'okuyooyoota, n'entambula.
+
+**User\:** Nnyinza ntya okukendeeza ku nsaasaanya?
+
+**Helper\:** Londa ebintu ebyetaagisa ennyo era weewale ebintu ebisukkiridde.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 091: Okusoma mu tterekero ly'ebitabo (Library)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okugenda mu tterekero ly'ebitabo.
+
+**Helper\:** Ekyo kirungi. Oyagala kusoma bitabo bya kika ki?
+
+**User\:** Njagala ebitabo ebyogera ku sayansi.
+
+**Helper\:** Buuza omukozi w'etterekero akulage ebitabo ebyo.
+
+**User\:** Nnyinza ntya okufuna ekitabo ekisinga okuba eky'omugaso?
+
+**Helper\:** Soma ebikwata ku kitabo era olonde ekikwatagana n'ekyo ky'oyagala okuyiga.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 092: Okukola ku nsonga z'eby'obusuubuzi (Business Communication)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okuwandiikira kasitoma wange obubaka.
+
+**Helper\:** Ekyo kirungi. Obubaka bwo bulina kuba ku nsonga ki?
+
+**User\:** Njagala kumutegeeza nti ebintu bye byatuuse.
+
+**Helper\:** Muwandiikire obubaka obumpi obulaga nti ebintu byatuuse era omwebaze.
+
+**User\:** Nnyinza ntya okubuwandiika mu ngeri ey'ekitiibwa?
+
+**Helper\:** Kozesa ebigambo eby'ekitiibwa era onyonyole ensonga mu ngeri entegeerekeka.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 093: Okukola ku nsonga z'obukuumi (Safety)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi.
+
+**User\:** Njagala okumanya engeri y'okukuuma obukuumi bw'ennyumba.
+
+**Helper\:** Ekyo kirungi. Olina enzigi n'amadirisa ebiggala obulungi?
+
+**User\:** Yee, naye njagala okwongera obukuumi.
+
+**Helper\:** Kakasa nti enzigi n'amadirisa biggalwa nga muvudde awaka.
+
+**User\:** Nnyinza ntya okwewala abantu abatamanyiddwa okuyingira?
+
+**Helper\:** Weewale okugulawo oluggi eri abantu abatamanyiddwa era weetegereze ebintu ebitali bya bulijjo.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 094: Okuyiga okukuba ebifaananyi bya vidiyo (Video Making)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyiga okukola vidiyo.
+
+**Helper\:** Ekyo kirungi. Vidiyo ya kika ki gy'oyagala okukola?
+
+**User\:** Njagala kukola vidiyo z'okuyigiriza.
+
+**Helper\:** Tegeka ensonga zo, olwo okubeere n'enteekateeka y'ebyo by'oyagala okwogera.
+
+**User\:** Nnyinza ntya okukola vidiyo ennungi?
+
+**Helper\:** Kozesa ekitangaala ekimala, eddoboozi eritegeerekeka, n'enteekateeka ennungi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 095: Okuteekateeka olugendo lw'okusoma (Educational Trip)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Ekibiina kyaffe kiteekateeka olugendo lw'okusoma.
+
+**Helper\:** Ekyo kirungi. Muteekateeka kugenda wa?
+
+**User\:** Twagala okugenda mu kifo eky'eby'obulamu bw'ebisolo.
+
+**Helper\:** Ekyo kijja kuyamba abayizi okuyiga ebintu ebipya.
+
+**User\:** Nnyinza ntya okwetegekera olugendo?
+
+**Helper\:** Tegeka ebiwandiiko byo, ebyetaagisa, n'ebintu by'olina okutwala.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 096: Okusaba ekifo mu yunivasite (University Admission)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okusaba ekifo mu yunivasite.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kusoma ki?
+
+**User\:** Njagala kusoma tekinologiya wa kompyuta.
+
+**Helper\:** Kebera ebisaanyizo by'ekitundu ky'oyagala okusoma.
+
+**User\:** Nnyinza ntya okuteekateeka ebiwandiiko byange?
+
+**Helper\:** Tegeka satifikeeti zo, ebiwandiiko by'okusaba, n'ebirala ebyetaagisa.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 097: Okulya n'emikwano (Dining with Friends)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okuyita emikwano gyange okulya awaka.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kubafumbira ki?
+
+**User\:** Njagala kubafumbira pilawo n'enva endiirwa.
+
+**Helper\:** Ekyo kijja kuba kijjulo kirungi.
+
+**User\:** Nnyinza ntya okuteekateeka emmere ey'abantu bangi?
+
+**Helper\:** Bala abantu b'oyita, olwo oteekateeke ebintu n'emmere okusinziira ku muwendo gwabwe.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 098: Okuyiga olulimi lw'omu kitundu (Local Language)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyiga olulimi olw'omu kitundu ekirala.
+
+**Helper\:** Ekyo kirungi. Lulimi ki lw'oyagala okuyiga?
+
+**User\:** Njagala okuyiga Olusoga.
+
+**Helper\:** Tandika n'ebigambo ebyangu eby'okulamusa n'okubuuza embeera.
+
+**User\:** Nnyinza ntya okweyongera okuluyiga?
+
+**Helper\:** Nyumya n'abantu abalwogera era wewegezeemu buli lunaku.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 099: Okukola ku nsonga z'okusoma (Study Challenges)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Nnina obuzibu mu kutegeera amasomo gange.
+
+**Helper\:** Nsonyiwa okuwulira ekyo. Masomo ki agakuzibuwalira?
+
+**User\:** Sayansi n'okubala.
+
+**Helper\:** Gezaako okusoma amasomo ago buli lunaku era obuuze omusomesa ebibuuzo.
+
+**User\:** Nnyinza ntya okwewala okuggwaamu amaanyi?
+
+**Helper\:** Teekawo ebiruubirirwa ebitono era weebazenga obuwanguzi bwo.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 100: Okuteekateeka oluwummula lw'ekibiina (Group Holiday)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Emikwano gyange nteekateeka oluwummula lw'ekibiina.
+
+**Helper\:** Ekyo kirungi. Muteekateeka kugenda wa?
+
+**User\:** Twagala kugenda ku nnyanja.
+
+**Helper\:** Ekyo kijja kuba kiseera kirungi eky'okwesanyusa.
+
+**User\:** Nnyinza ntya okuteekateeka olugendo olwo?
+
+**Helper\:** Muteekateeke ssente, entambula, ekifo, n'ebintu ebyetaagisa.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 101: Okukola ku nsonga z'obulamu bw'abaana (Child Health)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi.
+
+**User\:** Omwana wange alina obulwadde obutonotono.
+
+**Helper\:** Nsonyiwa okuwulira ekyo. Alina bubonero ki?
+
+**User\:** Alina omusujja n'okukoowa.
+
+**Helper\:** Kirungi okumukebera omusawo, naddala ng'omusujja gweyongera oba ng'alina obubonero obulala obweraliikiriza.
+
+**User\:** Nja kumutwala mu ddwaliro.
+
+**Helper\:** Ekyo kirungi. Weewale okumuwa eddagala nga tonnategeera bulungi biragiro byalyo.
+
+---
+
+## Conversation 102: Okusaba omuntu akuwe ekiteeso (Seeking Advice)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okufuna ekiteeso ku nsonga y'omulimu.
+
+**Helper\:** Kale, mbuulira ensonga yo.
+
+**User\:** Nnina emirimu ebiri gye nsobola okusaba.
+
+**Helper\:** Kebera obukugu obwetaagisa, embeera y'emirimu, n'ebiruubirirwa byo.
+
+**User\:** Nnyinza ntya okusalawo omulimu ogusinga obulungi?
+
+**Helper\:** Geraageranya emigaso n'ebizibu bya buli mulimu.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 103: Okukola ku nsonga z'ekitabo ky'eby'obusuubuzi (Business Records)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okutandika okuwandiika ebiwandiiko bya bizinensi yange.
+
+**Helper\:** Ekyo kirungi. Otera okuwandiika ssente z'ofuna n'ezo z'osaasaanya?
+
+**User\:** Nedda, naye njagala okutandika.
+
+**Helper\:** Wandiika buli ssente lw'oyingiza n'oluvaamu, era oteeke ebiwandiiko byo mu kifo ekirungi.
+
+**User\:** Nnyinza ntya okwewala okufiirwa ebiwandiiko?
+
+**Helper\:** Bikoppe era obitereke mu kifo eky'obukuumi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 104: Okulambula ekifo eky'obutonde (Nature Visit)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okulambula ekifo eky'obutonde bw'ensi.
+
+**Helper\:** Ekyo kirungi. Wandyagadde kugenda wa?
+
+**User\:** Njagala okulaba ekifo ekirimu ebibira.
+
+**Helper\:** Oyinza okulonda ekifo ekirina ebibira n'ebisolo eby'enjawulo.
+
+**User\:** Nteekwa kwetegekera ki?
+
+**Helper\:** Tegeka amazzi, engoye ezisaanira, n'ebintu eby'obukuumi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 105: Okukola ku nsonga z'ekikula ky'obudde (Climate)
+
+**User\:** Wasuze otya, mukwano\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okumanya ku nkyukakyuka y'ekikula ky'obudde.
+
+**Helper\:** Ekyo kirungi. Wandyagadde kumanya ki ku nsonga eyo?
+
+**User\:** Njagala okumanya engeri gye kikosaamu obulimi.
+
+**Helper\:** Nkyukakyuka y'obudde esobola okukosa enkuba, ebbugumu, n'okukula kw'ebirime.
+
+**User\:** Nnyinza ntya okuyamba okukendeeza ku buzibu obwo?
+
+**Helper\:** Oyinza okusimba emiti, okukuuma ettaka, n'okukozesa amazzi mu ngeri ennungi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 106: Okukola ku nsonga z'eby'obuyonjo mu ssomero (School Cleanliness)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyamba okukuuma essomero lyaffe nga liyonjo.
+
+**Helper\:** Ekyo kirungi nnyo. Oteekateeka kukola ki?
+
+**User\:** Njagala kutegeka olunaku lw'okuyonja.
+
+**Helper\:** Ekyo kijja kuyamba nnyo. Muteekateeke ebikozesebwa mu kuyonja.
+
+**User\:** Nnyinza ntya okuleeta abayizi abalala?
+
+**Helper\:** Babuulire ku mugaso gw'obuyonjo era obasabe okwegatta ku mulimu.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 107: Okusaba omulimu ogw'ekiseera (Temporary Job)
+
+**User\:** Wasuze otya, ssebo\! Oli bulungi?
+
+**Helper\:** Wasuze otya naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okusaba omulimu ogw'ekiseera mu luwummula.
+
+**Helper\:** Ekyo kirungi. Mulimu ki gw'oyagala?
+
+**User\:** Njagala kukola mu dduuka.
+
+**Helper\:** Oyinza okubuuza mu maduuka agali okumpi naawe oba okunoonya ebifo ebirina emirimu egyo.
+
+**User\:** Nnyinza ntya okwetegekera okubuuza kw'omulimu?
+
+**Helper\:** Tegeka eby'okwogera ku bukugu bwo n'obumanyirivu bwo.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 108: Okuteekateeka obulamu bw'omu maka (Family Planning)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuteekateeka obulamu bw'omu maka gange.
+
+**Helper\:** Ekyo kirungi. Nsonga ki gy'oyagala okuteekateeka?
+
+**User\:** Njagala okuteekateeka ssente z'awaka.
+
+**Helper\:** Muwandiike ssente ze mufuna n'ebyetaago by'awaka.
+
+**User\:** Nnyinza ntya okukendeeza ku nsaasaanya?
+
+**Helper\:** Muteekewo embalirira era mulonde ebyetaago ebisinga obukulu.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 109: Okuyiga okukola pulogulaamu (Programming)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okuyiga okukola pulogulaamu za kompyuta.
+
+**Helper\:** Ekyo kirungi. Olina olulimi lwa pulogulaamu lw'oyagala okutandika n'olwo?
+
+**User\:** Njagala okutandika ne Python.
+
+**Helper\:** Tandika n'ebintu ebyangu ng'okuwandiika ebiragiro n'okukozesa enkyukakyuka.
+
+**User\:** Nnyinza ntya okwegezaamu?
+
+**Helper\:** Kola pulojekiti entono buli lwe oyiga ekintu ekipya.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 110: Okukola ku nsonga z'okutambula mu budde (Punctuality)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi.
+
+**User\:** Ntera okutuuka ng'obudde buwedde.
+
+**Helper\:** Otera okwetegekera nga bukyali?
+
+**User\:** Nedda, ntera okuleka buli kintu okutuusa akaseera k'okugenda.
+
+**Helper\:** Tegeka ebintu byo ekiro nga bukyali era oteekewo ekiseera ky'okusimbulirako.
+
+**User\:** Nnyinza ntya okwejjukanyanga obudde?
+
+**Helper\:** Kozesa akalaba ssaawa oba ekijjukizo ku ssimu yo.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 111: Okuyiga okukola ebintu n'emikono (Handicrafts)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okuyiga okukola ebintu n'emikono.
+
+**Helper\:** Ekyo kirungi. Bintu ki by'oyagala okukola?
+
+**User\:** Njagala okuyiga okukola ebisero n'ebintu eby'okuyooyoota.
+
+**Helper\:** Tandika n'ebintu ebyangu era oyige okukozesa ebikozesebwa obulungi.
+
+**User\:** Nnyinza ntya okutumbula obukugu bwange?
+
+**Helper\:** Wewegezeemu buli lunaku era oyige okuva ku bantu abalina obumanyirivu.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 112: Okuteekateeka ekijjulo ky'abagenyi (Hosting Guests)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuteekateeka ekijjulo ky'abagenyi.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kuyita abantu bameka?
+
+**User\:** Njagala okuyita abantu kkumi.
+
+**Helper\:** Tegeka emmere n'ebintu ebyetaagisa okusinziira ku muwendo gw'abagenyi.
+
+**User\:** Nnyinza ntya okukakasa nti buli muntu afuna emmere emala?
+
+**Helper\:** Bala emmere ng'osinziira ku muwendo gw'abantu era oteekewo akatono ak'okwongerako.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 113: Okusaba obuyambi ku ssente (Financial Help)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Nnina ekizibu mu nteekateeka y'ensimbi zange.
+
+**Helper\:** Nsonyiwa okuwulira ekyo. Kizibu ki ky'olina?
+
+**User\:** Nsaasaanya ssente nnyingi okusinga ezo ze nfuna.
+
+**Helper\:** Gezaako okuwandiika nsaasaanya zo era olonde ez'olina okukendeeza.
+
+**User\:** Nnyinza ntya okutandika okutereka?
+
+**Helper\:** Teekawo omuwendo gw'otereka buli lwe ofuna ssente.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 114: Okuyiga okukola ku mutimbagano (Web Design)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyiga okukola emikutu gy'oku yintaneeti.
+
+**Helper\:** Ekyo kirungi. Olina obumanyirivu mu kukola pulogulaamu?
+
+**User\:** Nnina obumanyirivu obutonotono.
+
+**Helper\:** Tandika n'okuyiga HTML ne CSS okukola n'okuyooyoota emikutu.
+
+**User\:** Nnyinza ntya okwegezaamu?
+
+**Helper\:** Kola omukutu omutonotono ogw'amawulire go oba ogw'ebintu by'oyagala.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 115: Okuteekateeka omukolo gw'ebyobuwangwa (Cultural Event)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuteekateeka omukolo ogw'ebyobuwangwa.
+
+**Helper\:** Ekyo kirungi. Muteekateeka kukola ki ku mukolo?
+
+**User\:** Twagala okulaga ennyimba n'emizannyo egy'ekinnansi.
+
+**Helper\:** Ekyo kijja kuyamba abantu okumanya obuwangwa bwabwe.
+
+**User\:** Nnyinza ntya okuteekateeka omukolo obulungi?
+
+**Helper\:** Tegeka abetaba mu mukolo, ebikozesebwa, n'enteekateeka y'ekiseera.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 116: Okukola ku nsonga z'obulamu bw'omu mutwe (Mental Wellbeing)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi. Ggwe otya?
+
+**User\:** Oluusi mpulira nga nnina okweraliikirira kungi.
+
+**Helper\:** Nsonyiwa okuwulira ekyo. Waliwo ekintu ekikweraliikiriza ennyo?
+
+**User\:** Nnina emirimu mingi egy'okusoma n'egy'awaka.
+
+**Helper\:** Gezaako okugabanya emirimu mu bitundu ebitono era ofune obudde okuwummula.
+
+**User\:** Nnyinza ntya okufuna obuyambi obulala?
+
+**Helper\:** Nyumya n'omuntu gw'eesiga oba omukugu mu by'obulamu bw'omu mutwe.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 117: Okuteekateeka olugendo lw'ennyonyi (Air Travel)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okutambula n'ennyonyi omulundi ogusooka.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kugenda wa?
+
+**User\:** Njagala kugenda e Nairobi.
+
+**Helper\:** Kebera ebiwandiiko by'olina, obudde bw'ennyonyi, n'amateeka g'ekibuga ky'ogendamu.
+
+**User\:** Nteekwa kutuuka ku kisaawe nga bukyali?
+
+**Helper\:** Yee, goberera obulagirizi bw'ekitongole ky'ennyonyi ku budde bw'okutuuka.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 118: Okukola ku nsonga z'okukulaakulanya ekitundu (Community Development)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyamba okukulaakulanya ekitundu kyaffe.
+
+**Helper\:** Ekyo kirungi nnyo. Nsonga ki gy'oyagala okukolako?
+
+**User\:** Njagala okuyamba okulongoosa enguudo zaffe.
+
+**Helper\:** Oyinza okutandika n'okwogera n'abakulembeze b'ekitundu.
+
+**User\:** Nnyinza ntya okufuna abantu abalala abankwatako?
+
+**Helper\:** Nyumya n'abatuuze ku mugaso gw'ekirubirirwa era muteekateeke enteekateeka.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 119: Okuyiga okukola ku by'obusuubuzi ku yintaneeti (Online Business)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okutandika okutunda ebintu ku yintaneeti.
+
+**Helper\:** Ekyo kirungi. Bintu ki by'oteekateeka okutunda?
+
+**User\:** Njagala okutunda engoye.
+
+**Helper\:** Teekateeka ebifaananyi ebirungi eby'ebintu byo n'amawulire agakwata ku bbeeyi.
+
+**User\:** Nnyinza ntya okufuna kasitoma?
+
+**Helper\:** Kozesa emikutu egy'obusuubuzi egyesigika era owa kasitoma obuweereza obulungi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 120: Okuteekateeka ekiseera ky'okusoma n'okuzannya (Study and Play Balance)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Ntera okusoma nnyo ne sisobola kuzannya.
+
+**Helper\:** Otera okuteekateeka obudde bwo?
+
+**User\:** Nedda, ntera okusoma okutuusa akawungeezi.
+
+**Helper\:** Teekawo enteekateeka erimu obudde bw'okusoma n'obw'okuwummula.
+
+**User\:** Nnyinza ntya okukakasa nti sisubwa kusoma?
+
+**Helper\:** Maliriza emirimu gy'okusoma egy'obukulu nga tonnagenda kuzannya.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 121: Okuyiga okukuba emizannyo egy'ekinnansi (Traditional Games)
+
+**User\:** Gyebale ko, mukwano\! Oli bulungi?
+
+**Helper\:** Gyebale ko naawe\! Ndi bulungi nnyo.
+
+**User\:** Njagala okuyiga emizannyo egy'ekinnansi.
+
+**Helper\:** Ekyo kirungi. Muzannyo ki gw'oyagala okuyiga?
+
+**User\:** Njagala okuyiga omuzannyo gwa mweso.
+
+**Helper\:** Oyinza okusaba omuntu alina obumanyirivu akuyigirize amateeka g'omuzannyo.
+
+**User\:** Nnyinza ntya okufuuka omuzannyi omulungi?
+
+**Helper\:** Wewegezeemu buli lunaku era oyige obukodyo obw'enjawulo.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 122: Okuteekateeka omukolo gw'okusoma (Graduation Celebration)
+
+**User\:** Wasuze otya, mukwano\! Osiibye otya?
+
+**Helper\:** Wasuze otya naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Mukwano gwange amaliriza okusoma.
+
+**Helper\:** Ekyo kirungi nnyo\! Oteekateeka kumujaguza otya?
+
+**User\:** Njagala okumutegekera akalulu.
+
+**Helper\:** Tegeka abantu b'oyagala okuyita n'emmere gye munaalya.
+
+**User\:** Nnyinza ntya okuteekateeka ekirabo eky'enjawulo?
+
+**Helper\:** Oyinza okumuwandiikira ebbaluwa ey'okumwebaza oba okumugulira ekintu ky'ayagala.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 123: Okuyiga okukola ku nsonga z'ebitabo (Bookkeeping)
+
+**User\:** Gyebale ko, ssebo\! Osiibye otya?
+
+**Helper\:** Gyebale ko\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuyiga okuwandiika ebiwandiiko bya ssente.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kukozesa bukugu obwo ku bizinensi yo?
+
+**User\:** Yee, njagala okumanya ssente zange ez'ayingira n'ezo ezifuluma.
+
+**Helper\:** Tandika n'okuwandiika buli nsaasaanya n'ensimbi z'ofuna.
+
+**User\:** Nnyinza ntya okwewala ensobi?
+
+**Helper\:** Kebera ebiwandiiko byo buli kiseera era obitereke obulungi.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 124: Okuteekateeka oluwummula olw'ebyobuwangwa (Cultural Holiday)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Njagala okuteekateeka oluwummula olw'ebyobuwangwa.
+
+**Helper\:** Ekyo kirungi. Oteekateeka kukola ki mu luwummula?
+
+**User\:** Njagala okulambula ebifo eby'ebyafaayo n'okuyiga ennyimba ez'ekinnansi.
+
+**Helper\:** Ekyo kijja kukuyamba okumanya obuwangwa bwo obulungi.
+
+**User\:** Nnyinza ntya okuteekateeka olugendo olwo?
+
+**Helper\:** Tegeka ebifo by'oyagala okulambula, entambula, n'obudde bw'olina.
+
+**User\:** Webale nnyo.
+
+---
+
+## Conversation 125: Okumaliriza omulimu n'okuwummula (Finishing Work and Rest)
+
+**User\:** Gyebale ko, mukwano\! Osiibye otya leero?
+
+**Helper\:** Gyebale ko naawe\! Nsiibye bulungi nnyo.
+
+**User\:** Nnina emirimu mingi gye nkoze leero.
+
+**Helper\:** Ekyo kirungi. Wasobodde okugimaliriza?
+
+**User\:** Yee, naye mpulira nga nkooye nnyo.
+
+**Helper\:** Funa ekiwummulo, olye emmere ennungi, era oteekateeke obudde bw'okwebaka.
+
+**User\:** Nja kugoberera amagezi go. Webale nnyo.
+
+**Helper\:** Kale, weebake bulungi era osuule olunaku olulungi.
+
+---
+
+**Progress: 125 / 1,000 conversations completed.**

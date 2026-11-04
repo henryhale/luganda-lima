@@ -1,0 +1,284 @@
+{
+  "conversations": [
+    {
+      "id": 41,
+      "topic": "Emmere - Kulooga",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Nnyamba okumanya engeri ey'okulooga ebyennyanja."},
+        {"role": "helper", "text": "Ndi bulungi. Ebyennyanja byokebwe ku muliro ogw'amaanyi, oluvannyuma bibikole mu mazzi gamatono ne limoni."},
+        {"role": "user", "text": "Limoni ekola ki?"},
+        {"role": "helper", "text": "Limoni ebbira ekinyo ky'ennyonyi era ewa endya ekirungo eky'omutindo."},
+        {"role": "user", "text": "Nsobola okukozesa emmandu?"},
+        {"role": "helper", "text": "Yee, emmandu nayo eyamba nnyo, naye limoni ye esinga okukozesebwa mu byennyanja."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Endya ey'amagezi ezaamu obulamu."}
+      ]
+    },
+    {
+      "id": 42,
+      "topic": "Obulamu - Okunywa Amazzi",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku mugaso gw'amazzi ku mubiri."},
+        {"role": "helper", "text": "Nasiibye bulungi. Amazzi geeyambisa omubiri okukola emirimu gyawo egy'enjawulo."},
+        {"role": "user", "text": "Mmala ddi okunywa amazzi?"},
+        {"role": "helper", "text": "Buli lunaku weetaaga okunywa litolo bbiri okutuuka ku ssatu, okusinziira ku nzitoya yo."},
+        {"role": "user", "text": "Amazzi gayamba ku kibi?"},
+        {"role": "helper", "text": "Gayamba ku kusaanawaza omubiri, okukuuma engalo z'amaaso, n'okuyamba mu kugenda kw'emmisana."},
+        {"role": "user", "text": "Weebale ku buyambi buno."},
+        {"role": "helper", "text": "Ssanyu lyange. Amazzi ge mpagi y'obulamu."}
+      ]
+    },
+    {
+      "id": 43,
+      "topic": "Entambula - Boda Boda",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Nnyamba ku mateeka ga boda boda mu Kampala."},
+        {"role": "helper", "text": "Nsiibye bulungi. Mateeka galagira abavuga boda boda okwambala ebyambalo ebyerabika."},
+        {"role": "user", "text": "Ebyambalo ebyerabika bya bwenki?"},
+        {"role": "helper", "text": "Byafaanana ng'eby'abakozi ba poliisi, kubanga biyamba abantu okubalaba mu kkubo."},
+        {"role": "user", "text": "Kiki ekirala ekiteekwako?"},
+        {"role": "helper", "text": "Bateekwa okubeera na layisensi ey'okuvuga, n'epikipiki eteekwa okuba n'ensale empya."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okugondera amateeka kuleeta obukuumi."}
+      ]
+    },
+    {
+      "id": 44,
+      "topic": "Ebyafaayo - Ssekabaka Muteesa I",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku Ssekabaka Muteesa I."},
+        {"role": "helper", "text": "Muteesa I yali Kabaka ow'obugezi nnyo, eyazimba Buganda ey'amaanyi."},
+        {"role": "user", "text": "Yakola ki eky'omugaso?"},
+        {"role": "helper", "text": "Yawangula empiro nnyingi, n'okuwanula ensalo za Buganda okutuuka e Bunyoro."},
+        {"role": "user", "text": "Yalina bakadde ba bwenki?"},
+        {"role": "helper", "text": "Yalina abakadde ab'amagezi nga Mwanga n'abalala, abaamuyambanga mu kufuga."},
+        {"role": "user", "text": "Weebale ku byafaayo bino."},
+        {"role": "helper", "text": "Ssanyu lyange. Bakadde baffe baaleka eby'omuwendo."}
+      ]
+    },
+    {
+      "id": 45,
+      "topic": "Okukuumi - Okuzikiza Omuliro",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku ngeri ey'okuzikiza omuliro gw'amasannyalaze."},
+        {"role": "helper", "text": "Nasiibye bulungi. Omuliro gw'amasannyalaze tegukikizibwa namazzi."},
+        {"role": "user", "text": "Tukozesa ki?"},
+        {"role": "helper", "text": "Kozesa ekintu ekitali kikozesa masannyalaze, nga 'sand' oba 'fire blanket'."},
+        {"role": "user", "text": "Tusooka kukola ki?"},
+        {"role": "helper", "text": "Sooka okuziba amasannyalaze mu 'main switch', oluvannyuma ozikize omuliro."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okumanya eby'okukuumi kireeta obukuumi."}
+      ]
+    },
+    {
+      "id": 46,
+      "topic": "Emmere - Kasooli",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Nnyamba okufumba kasooli."},
+        {"role": "helper", "text": "Ndi bulungi. Kasooli asobola okufumbibwa, okwokya, oba okukolamu 'chips'."},
+        {"role": "user", "text": "Ndyagala okumukola 'chips'."},
+        {"role": "helper", "text": "Kamemenye mu bitundu bitono, oluvannyuma omuke mu mafuta ag'obugumu."},
+        {"role": "user", "text": "Amafuta gagobererwa ntya?"},
+        {"role": "helper", "text": "Gabeere ga 'vegetable oil', era togakozesa nnyo kubanga galeeta obulwadde."},
+        {"role": "user", "text": "Weebale. Ndigekolerako leero."},
+        {"role": "helper", "text": "Ssanyu lyange. Kasooli ye mmere ey'omuwendo."}
+      ]
+    },
+    {
+      "id": 47,
+      "topic": "Obulamu - Okuddukanka",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku mugaso gw'okuddukanka."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okuddukanka kuyamba omubiri okufuna amaanyi n'okukuuma emitima gy'amaanyi."},
+        {"role": "user", "text": "Ddukanka ddi?"},
+        {"role": "helper", "text": "Buli kiro oba mu makya, okumala ddakiika 30, kye kisinga obulungi."},
+        {"role": "user", "text": "Nsobola okuddukanka wansi w'omuti?"},
+        {"role": "helper", "text": "Yee, wansi w'omuti kulina omwenge omulungi, naye weewale ebifo eby'ensobi."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okuddukanka kwe kukuuma obulamu."}
+      ]
+    },
+    {
+      "id": 48,
+      "topic": "Entambula - Taxi Park",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Nnyamba ku Taxi Park ew'omu Kampala."},
+        {"role": "helper", "text": "Nsiibye bulungi. Taxi Park ye kifo eky'okutandikirwako emmotoka ez'engendo."},
+        {"role": "user", "text": "Ziva wa okudda wa?"},
+        {"role": "helper", "text": "Ziva mu Uganda yonna, okuva e Gulu okutuuka e Mbarara."},
+        {"role": "user", "text": "Zimala ddi okujja?"},
+        {"role": "helper", "text": "Zijja buli kaseera, naye mu makya ze zisinga okujja."},
+        {"role": "user", "text": "Weebale ku buyambi buno."},
+        {"role": "helper", "text": "Ssanyu lyange. Entambula ey'amaanyi ezaamu obulamu."}
+      ]
+    },
+    {
+      "id": 49,
+      "topic": "Ebyafaayo - Enjuyjo za Buganda",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku njuyjo za Buganda."},
+        {"role": "helper", "text": "Buganda erina enjuyjo nnyingi, nga Mengo, Lubiri, ne Bulange."},
+        {"role": "user", "text": "Mengo y'ekintu ki?"},
+        {"role": "helper", "text": "Mengo ye kifo Kabaka we yabeeranga, era ye nnyumba ya Kabaka ey'omuwendo."},
+        {"role": "user", "text": "Lubiri liri wa?"},
+        {"role": "helper", "text": "Lubiri liri mu Kampala, era lye kifo ekya wakati mu byafaayo by'Obwakabaka."},
+        {"role": "user", "text": "Weebale ku byafaayo bino."},
+        {"role": "helper", "text": "Ssanyu lyange. Enjuyjo zaffe zireka eby'omuwendo."}
+      ]
+    },
+    {
+      "id": 50,
+      "topic": "Okukuumi - Okwewala Obulwadde",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku ngeri ey'okwewala obulwadde."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okwewala obulwadde kwe kukuuma obuyonjo bw'omubiri n'obw'enviro."},
+        {"role": "user", "text": "Tukola ki buli lunaku?"},
+        {"role": "helper", "text": "Wamba emikono, nywa amazzi mangi, era lyanga emboga n'enva."},
+        {"role": "user", "text": "Twebaka ddi?"},
+        {"role": "helper", "text": "Webaka ddakiika 8 buli kiro, kubanga twebaka tumala okuzzaamu amaanyi."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Obuyonjo bwe bugingo bw'obulamu."}
+      ]
+    },
+    {
+      "id": 51,
+      "topic": "Emmere - Ndizi",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Nnyamba okufumba ndizi."},
+        {"role": "helper", "text": "Ndi bulungi. Ndizi zisobola okufumbibwa, okwokya, oba okukolamu 'chips'."},
+        {"role": "user", "text": "Ndyagala okuzifumba."},
+        {"role": "helper", "text": "Zimenye mu bitundu bitono, oluvannyuma ozifumbire mu mazzi gamatono ne nnaavu."},
+        {"role": "user", "text": "Nnaavu ekola ki?"},
+        {"role": "helper", "text": "Nnaavu ewa ndizi ekirungo eky'omutindo, era ezifuula entamu."},
+        {"role": "user", "text": "Weebale. Ndigekolerako leero."},
+        {"role": "helper", "text": "Ssanyu lyange. Ndizi ye mmere ey'omuwendo."}
+      ]
+    },
+    {
+      "id": 52,
+      "topic": "Obulamu - Amaaso",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku kukuuma amaaso gaange galamu."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okukuuma amaaso galamu kwe kutunuula ebintu eby'ewala."},
+        {"role": "user", "text": "Nkola ki bw'oba nsoma nnyo?"},
+        {"role": "helper", "text": "Kozesa '20-20-20 rule': Buli miniti 20, tunuula ekintu ekiri mita 20 ewala."},
+        {"role": "user", "text": "Emmere ki ey'amagezi ku maaso?"},
+        {"role": "helper", "text": "Lyanga enva ezirina 'Vitamin A' nga 'carrots', 'pumpkins', ne 'spinach'."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Amaaso galamu ge gateeka obulamu."}
+      ]
+    },
+    {
+      "id": 53,
+      "topic": "Entambula - Emotoka",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Nnyamba ku kudukanya emotoka."},
+        {"role": "helper", "text": "Nsiibye bulungi. Okudukanya emotoka kwe kugikozesa mu ngeri ey'amagezi."},
+        {"role": "user", "text": "Tugikozesa ntya?"},
+        {"role": "helper", "text": "Toogiduukanya nnyo, kozesa 'brakes' mpola, era giyambe ku 'service' buli myezi mukaaga."},
+        {"role": "user", "text": "'Service' ekola ki?"},
+        {"role": "helper", "text": "'Service' ekebezza 'engine', 'oil', ne 'tyres', era ekyuusa ebintu ebyakaddiye."},
+        {"role": "user", "text": "Weebale ku buyambi buno."},
+        {"role": "helper", "text": "Ssanyu lyange. Emotoka egidukanyiddwa bulungi efaayo."}
+      ]
+    },
+    {
+      "id": 54,
+      "topic": "Ebyafaayo - Abalangira",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku Balangira ba Buganda."},
+        {"role": "helper", "text": "Abalangira be baana ba Kabaka, abalina eddembe ly'okufuga obw'obufuzi."},
+        {"role": "user", "text": "Balina mirimu gya bwenki?"},
+        {"role": "helper", "text": "Balina omulimu gw'okuyamba Kabaka mu kufuga, n'okukuuma amateeka ga Buganda."},
+        {"role": "user", "text": "Babeera wa?"},
+        {"role": "helper", "text": "Babeera mu maka gaabwe, naye buli kaseera basobola okuyitaba mu Lukiiko."},
+        {"role": "user", "text": "Weebale ku byafaayo bino."},
+        {"role": "helper", "text": "Ssanyu lyange. Abalangira baffe bakyali mu maaso."}
+      ]
+    },
+    {
+      "id": 55,
+      "topic": "Okukuumi - Okwewala Nnyenje",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku ngeri ey'okwewala nnyenje."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okwewala nnyenje kwe kukuuma enviro ey'obuyonjo."},
+        {"role": "user", "text": "Tukola ki?"},
+        {"role": "helper", "text": "Teeka amazzi agakuŋŋaana, ssaabuamu ebifo eby'ensobi, era kozesa 'mosquito nets'."},
+        {"role": "user", "text": "'Mosquito nets' tugizikiza ntya?"},
+        {"role": "helper", "text": "Gizikize buli kiro, era gikebe bulungi wansi, nnyenje teziryoke zayingire."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okwewala nnyenje kireeta obulamu."}
+      ]
+    },
+    {
+      "id": 56,
+      "topic": "Emmere - Matooke",
+      "turns": [
+        {"role": "user", "text": "Oli otya? Nnyamba okufumba matooke ag'ekigero."},
+        {"role": "helper", "text": "Ndi bulungi. Matooke ag'ekigero gafumbibwa mu mazzi gamatono, nga tegaanukirwa."},
+        {"role": "user", "text": "Gafumbwa ddi?"},
+        {"role": "helper", "text": "Gafumbwa okumala ddakiika 20 okutuuka ku 30, okusinziira ku bunene bwago."},
+        {"role": "user", "text": "Nsobola okugatta n'ebirala?"},
+        {"role": "helper", "text": "Yee, sobola okugatta n'ebinyeebwa, ennyama, oba ebyennyanja."},
+        {"role": "user", "text": "Weebale. Ndigekolerako leero."},
+        {"role": "helper", "text": "Ssanyu lyange. Matooke ye mmere ey'omuwendo."}
+      ]
+    },
+    {
+      "id": 57,
+      "topic": "Obulamu - Emitima",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku kukuuma emitima gy'amaanyi."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okukuuma emitima gy'amaanyi kwe kulya emmere ey'obulamu."},
+        {"role": "user", "text": "Emmere ki ey'amagezi?"},
+        {"role": "helper", "text": "Lyanga emboga, enva, n'ebinyeebwa. Weewale emmere erina 'sugar' nnyingi."},
+        {"role": "user", "text": "Tukola ki buli lunaku?"},
+        {"role": "helper", "text": "Ddukanka, weewale okweraliikirira nnyo, era webaka ddakiika 8 buli kiro."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Omutima ogulamu gumala."}
+      ]
+    },
+    {
+      "id": 58,
+      "topic": "Entambula - Ndege",
+      "turns": [
+        {"role": "user", "text": "Osiibye otya? Nnyamba ku ndege ez'engendo."},
+        {"role": "helper", "text": "Nsiibye bulungi. Ndege ez'engendo ziva Entebbe okudda mu bifo eby'enjawulo."},
+        {"role": "user", "text": "Ziva wa okudda wa?"},
+        {"role": "helper", "text": "Ziva mu Africa yonna, Europe, Asia, ne America."},
+        {"role": "user", "text": "Zimala ddi?"},
+        {"role": "helper", "text": "Zimala saawa nyingi, okusinziira ku kifo we zigenda."},
+        {"role": "user", "text": "Weebale ku buyambi buno."},
+        {"role": "helper", "text": "Ssanyu lyange. Ndege ze future ya entambula."}
+      ]
+    },
+    {
+      "id": 59,
+      "topic": "Ebyafaayo - Obwakabaka",
+      "turns": [
+        {"role": "user", "text": "Nnyonnyola ku Obwakabaka bwa Buganda."},
+        {"role": "helper", "text": "Obwakabaka bwa Buganda butandikibwawo Kabaka Kato Kintu."},
+        {"role": "user", "text": "Kintu yava wa?"},
+        {"role": "helper", "text": "Mu miteeko, Kintu yava mu mawulire g'okufa n'okuzaalibwa."},
+        {"role": "user", "text": "Yafuna Nambi ntya?"},
+        {"role": "helper", "text": "Yamufuna oluvannyuma lw'okukola emirimu egy'okugezesebwa."},
+        {"role": "user", "text": "Weebale ku byafaayo bino."},
+        {"role": "helper", "text": "Ssanyu lyange. Obwakabaka bwe bugingo bw'Obuganda."}
+      ]
+    },
+    {
+      "id": 60,
+      "topic": "Okukuumi - Okwewala Ebola",
+      "turns": [
+        {"role": "user", "text": "Wasuze otya? Nnyamba ku ngeri ey'okwewala Ebola."},
+        {"role": "helper", "text": "Nasiibye bulungi. Okwewala Ebola kwe kukuuma obuyonjo bw'omubiri."},
+        {"role": "user", "text": "Tukola ki?"},
+        {"role": "helper", "text": "Wamba emikono, tokwata bantu abalwadde, era teeka amazzi agakuŋŋaana."},
+        {"role": "user", "text": "Ebola efa ntya?"},
+        {"role": "helper", "text": "Efa mu nnyenje, naye ebiseera byonna eba n'endwadde empya."},
+        {"role": "user", "text": "Weebale nnyo."},
+        {"role": "helper", "text": "Ssanyu lyange. Okwewala endwadde kireeta obulamu."}
+      ]
+    }
+  ]
+}

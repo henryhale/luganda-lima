@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Wasuze otya nno ssebo? Nnina ekibuuzo ku mmwanyi zange."
+      },
+      {
+        "role": "assistant",
+        "content": "Wasuze bulungi nnyabo. Emwanyi zo ziri zityo, era oyagala kuyambibwako ki ku zo?"
+      },
+      {
+        "role": "user",
+        "content": "Zirina amakoola agafuuse ekyenvu ate ng'ebikoola ebimu bikEndedde. Nkoze ntya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ebiseera ebisinga ekyo kiva ku buwuka oba ebbula ly'ebiriisa mu ttaka. Ekisooka, kebera wansi w'amakoola olabe obanga waliwo obuwuka obweru oba obumyufu, ate oba osobola, teekamu obusa obukaze okugimusa ettaka."
+      },
+      {
+        "role": "user",
+        "content": "Weebale nnyo, nja kusooka nfunemu omukugu ku kyalo abirabe nga sinnagula ddagala."
+      },
+      {
+        "role": "assistant",
+        "content": "Eyo nteekateeka nnungi nnyo ssebo. Emwanyi zo zinaatereera mangu."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Osiibye otya nnyabo? Nsaana nnyambibweko."
+      },
+      {
+        "role": "assistant",
+        "content": "Nsiibye bulungi nnyo ssebo. Ggwe osiibye otya, era kiki ekiriwo?"
+      },
+      {
+        "role": "user",
+        "content": "Ntegeka kufumba luwombo lwa nnyama ya nte, naye endagala zange zamenyese olw'omusana. Nzikozese ntya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fuba okulaba nti ezimenyese tozitwala munda ddala awagenda obusera bw'ennyama. Kozesa endagala enzijuvu eyokebwa obulungi munda, ate ezo ezimenyese ozikozese kungulu ku bisiki n'okusibisa wabweru obutaleka ssupu kuyuuka."
+      },
+      {
+        "role": "user",
+        "content": "Mba ntegedde. Ate obunnyozi mbuteeka wa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Obunnyozi buteeke wansi ddala mu sseffuliya wamu n'ebiti by'endagala. Bikola ng'omusingi ogukuuma oluwombo obutalwala sseffuliya n'okubabuka."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Mirembe gyammwe mukwano. Nnina ekinsobedde."
+      },
+      {
+        "role": "assistant",
+        "content": "Mirembe nnyo nnyabo. Kiki ekyo ekikusobedde tuyinze okukisalira amagezi?"
+      },
+      {
+        "role": "user",
+        "content": "Bansasula ssente mmeka okusindika emitwalo ataano ku Airtel e Mbarara leero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ebisale biba bikyuka okusinziira ku mitendera gy'akakyo kano, era saagala kukuwa muwendo mutongole ne guba mukyamu. Nkusaba otonnyeeko *185# ku ssimu yo oba obuuze omukozi wa e-money akuli okumpi ofune amawulire amatuufu."
+      },
+      {
+        "role": "user",
+        "content": "Kale kale, weebale okung'amba amazima."
+      },
+      {
+        "role": "assistant",
+        "content": "Tewali nsonga ssebo. Olunaku lwo lube lwa mikisa."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Nsanyuse okukubalizaako enkya ya leero."
+      },
+      {
+        "role": "assistant",
+        "content": "Nange nsanyukidde ddala okukulaba ssebo. Mbeere ng'akuyambako ku ki leero?"
+      },
+      {
+        "role": "user",
+        "content": "Ettala zange eza ssolasi zizikira mangu ennyo ekiro, so ng'ate omusana gubadde gwayaka emisana gyonna."
+      },
+      {
+        "role": "assistant",
+        "content": "Ekyo kitera kuva ku bintu bibiri: bbaatule ekaddiye n'etakyasobola kukuuma masannyalaze, oba akapaneli kubiko enfuufu n'ebisaaniiko. Osooseeko okusangula akapaneli kano n'olaba oba waliwo enkyukakyuka?"
+      },
+      {
+        "role": "user",
+        "content": "Nedda ssebo, mmaze emyezi mukaaga nga sikanazaako nfuumo."
+      },
+      {
+        "role": "assistant",
+        "content": "Sooka osanguleko n'ekiwero ekinnyogovu naye nga tokikozesezza ddagala likambwe. Bwe kinaaba nga tekinnatereera, awo bbaatule y'eneeba eyagala kukeberwa."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Gyebale emirimu nno mukulu wange!"
+      },
+      {
+        "role": "assistant",
+        "content": "Kale nnyo nnyabo, gyebale nawe egyo gy'okola. Mbeereko kye nkuyamba?"
+      },
+      {
+        "role": "user",
+        "content": "Nnina omwana wange ali mu pulayimale ayagala okumanya omubala gw'ekika ky'Engeye. Osobola okungambako?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yee ssebo. Omubala gw'ekika ky'Engeye guli nti: \"Nsiimye kyakulya; Bw’ompa eky'okulya ng'onziyizza enjala!\""
+      },
+      {
+        "role": "user",
+        "content": "Ate omutaka ow'akasolya w'ekika ekyo ye yani?"
+      },
+      {
+        "role": "assistant",
+        "content": "Omutaka ow'akasolya mu kika ky'Engeye ye Kasujja ow'e Busujja."
+      },
+      {
+        "role": "user",
+        "content": "Mwebale nnyo okukuuma obuwangwa bwaffe."
+      },
+      {
+        "role": "assistant",
+        "content": "Weebale kusiima; obuwangwa bwe buggyo bwaffe Baganda."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Ki ekiriwo ssebo! Otereezezza leero?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bulungi nnyo nnyabo, buli kimu kigenda bulungi. Ggwe otyano leero?"
+      },
+      {
+        "role": "user",
+        "content": "Omutwe gunnuma naye saagala ddagala lya kizungu lyonna, nkoze ntya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ensonga y'obulamu y'obwegendereza ennyo. Omutwe gukulumira ludda wa, era waliwo obubonero obulala nga ffiiva oba okusesema?"
+      },
+      {
+        "role": "user",
+        "content": "Gulumira mu maaso ate ne ffiiva entaanya akawungeezi."
+      },
+      {
+        "role": "assistant",
+        "content": "Bwe kiba nti ffiiva ekwatiramu, ekyo kiyinza okuba omusujja gw'ensiri oba endwadde endala. Sikubalirira ddagala lya kiganda nga tewali kukebera; nkusaba ogende ku ddwaaliro oba ku kalwaliro akali okumpi bakebere omusaayi basobole okukujjanjaba ekituufu."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Kulika olugendo lw'omulimu gwo nnyabo."
+      },
+      {
+        "role": "assistant",
+        "content": "Kale nnyo mukwano, weebale. Nawe ogonze obudde buno?"
+      },
+      {
+        "role": "user",
+        "content": "Obukoko bwange obuto bwe naakaleeta obw'olunaku olumu bulya bubi nnyo ate tebunywa mazzi."
+      },
+      {
+        "role": "assistant",
+        "content": "Obukoko obw'olunaku olumu bwetaaga ebbugumu erimala wamu n'amazzi agalimu glukoosi oba sukaali okubawa amaanyi amangu. Osooseeko okuteekamu ekyoto oba ettala ebiboobera ebbugumu mu kiyumba?"
+      },
+      {
+        "role": "user",
+        "content": "Ebbugumu weeri naye sirina kye nnataddemu mu mazzi gaabwe."
+      },
+      {
+        "role": "assistant",
+        "content": "Sooka oteekemu akasukali katono mu mazzi ge banywa. Bwe banaafuna amanyi, bajja kutandika okulya emmere yaabwe eteredde."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Tusanyuse okukulaba ku makya gano."
+      },
+      {
+        "role": "assistant",
+        "content": "Nange nsanyuse nnyo okubawuliza ssebo. Mbalabirireko ku ki?"
+      },
+      {
+        "role": "user",
+        "content": "Akagaali kange kabeera kazito nnyo nga nseesa, kiyinza kuva ku ki?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ekyo kitera kuva ku mpewo eweddemu mu mipiira oba olukoba (cheni) olukaze olwetaaga amafuta. Emipiira gigumu bulungi?"
+      },
+      {
+        "role": "user",
+        "content": "Emipiira migumu bulungi, naye olukoba lulabika lukutte amayinja n'ebitosi."
+      },
+      {
+        "role": "assistant",
+        "content": "Lwozeeko ne kalasini oba petulooli ojjeemu ebitosi ebyo, oluvannyuma osiigeko buto ow'akagaali omuwonvu. Kijja kukuluka butereevu."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Bwake bwoye omukwano!"
+      },
+      {
+        "role": "assistant",
+        "content": "Bwake bulungi nnyo ssebo. Enkya yo etambula etya?"
+      },
+      {
+        "role": "user",
+        "content": "Njagala kutandika kulunda mbuzi, naye sirina masannyalaze mu ffamu. Kisoboka?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yee, kisoboka ddala kubanga embuzi tezisinziira nnyo ku masannyalaze nga bwe kiri ku nkoko ez'obukoko obuto. Ekyetaagisa ennyo kwe kisaakaate ekigumu, ekiyingiza empewo ate nga kirimu akasolya akatawunya nkuba."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "turns": [
+      {
+        "role": "user",
+        "content": "Nkulamusizzaako leero mukulu waffe."
+      },
+      {
+        "role": "assistant",
+        "content": "Nzikirizza ssebo, kale nnyo. Ggwe oli otya mu budde buno?"
+      },
+      {
+        "role": "user",
+        "content": "Ebinaanaani byange bikendedde ate ng'omusana mungi nnyo, kiki kye nnyinza okukola amangu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bisaanikire n'ebisubi eby'omusenyu oba ebisooto by'ebitooke wansi ku kikolo kukuuma obunnyogovu mu ttaka. Era ssinga oba olina amazzi, fukirira amakya oba akawungeezi nga tebakyali musana gwaka nnyo."
+      }
+    ]
+  }
+]
