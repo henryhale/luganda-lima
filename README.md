@@ -1,5 +1,10 @@
 # luganda-lima
 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-henryhale%2Fluganda--lima-yellow)](https://huggingface.co/datasets/henryhale/luganda-lima)
+![Language](https://img.shields.io/badge/language-Luganda-blue)
+![Conversations](https://img.shields.io/badge/conversations-685-green)
+[![LIMA paper](https://img.shields.io/badge/arXiv-2305.11206-b31b1b?logo=arxiv)](https://arxiv.org/abs/2305.11206)
+
 A small set of synthetic, multi-turn Luganda user–assistant conversations for
 LIMA-style (*Less Is More for Alignment*) fine-tuning.
 
