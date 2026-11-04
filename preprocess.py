@@ -3,8 +3,8 @@
 
 Usage: python preprocess.py [data_dir] [out_dir]   (defaults: data processed)
 
-Writes one <source>.jsonl per model folder in data_dir, then all.jsonl.
-Each line: {"id", "source", "source_file", "topic", "messages": [{"role", "content"}]}
+Merges every model folder in data_dir into out_dir/all.jsonl.
+Each line: {"id", "source", "source_file", "messages": [{"role", "content"}]}
 with roles normalised to user/assistant.
 
 Fails loudly instead of dropping anything it doesn't understand: an unparsed
@@ -20,7 +20,7 @@ import unicodedata
 from pathlib import Path
 
 ROLES = {"user": "user", "helper": "assistant", "assistant": "assistant"}
-HEADING = re.compile(r"^#+ Conversation (\d+):?\s*(.*)$", re.M)  # "### Conversation 001: Title"
+HEADING = re.compile(r"^#+ Conversation (\d+).*$", re.M)  # "### Conversation 001: Title"
 TURN = re.compile(r"^\*\*(User|Helper)\\?:\*\*\s*(.*)$")  # "**User\:** text"
 SEPARATOR = re.compile(r"^---\s*$", re.M)
 APOSTROPHES = str.maketrans({"\u2019": "'", "\u2018": "'", "\u02bc": "'"})
@@ -100,7 +100,7 @@ def parse_markdown(path):
             if not m:
                 raise ValueError(f"{path}: unparsed line in conversation {h[1]}: {line!r}")
             msgs.append({"role": ROLES[m[1].lower()], "content": clean(md_unescape(m[2]))})
-        yield int(h[1]), clean(md_unescape(h[2])), msgs
+        yield int(h[1]), msgs
 
 
 def parse_json(path):
@@ -112,7 +112,7 @@ def parse_json(path):
             {"role": ROLES[t["role"]], "content": clean(t["content"] if "content" in t else t["text"])}
             for t in c["turns"]
         ]
-        yield c["id"], c.get("topic"), msgs
+        yield c["id"], msgs
 
 
 PARSERS = {".txt": parse_markdown, ".json": parse_json}
@@ -124,7 +124,7 @@ def validate(rec):
         raise ValueError(f"{rec['id']} ({rec['source_file']}): bad role order {roles}")
     if not all(m["content"] for m in rec["messages"]):
         raise ValueError(f"{rec['id']} ({rec['source_file']}): empty message")
-    if any(LEAKS.search(t) for t in [rec["topic"] or ""] + [m["content"] for m in rec["messages"]]):
+    if any(LEAKS.search(m["content"]) for m in rec["messages"]):
         raise ValueError(f"{rec['id']} ({rec['source_file']}): name/model mention left unscrubbed, add it to FIXES")
 
 
@@ -141,12 +141,11 @@ def main(data_dir="data", out_dir="processed"):
     for src in sorted(p for p in data_dir.iterdir() if p.is_dir()):
         recs = []
         for f in sorted(src.iterdir(), key=lambda p: int(p.stem)):  # numbered batches: 1.json, 2.json, ...
-            for sid, topic, msgs in PARSERS[f.suffix](f):
+            for sid, msgs in PARSERS[f.suffix](f):
                 rec = {
                     "id": f"{src.name}-{sid:04d}",
                     "source": src.name,
                     "source_file": f"{src.name}/{f.name}",
-                    "topic": topic,
                     "messages": msgs,
                 }
                 validate(rec)
@@ -154,7 +153,6 @@ def main(data_dir="data", out_dir="processed"):
                     raise ValueError(f"duplicate id {rec['id']} in {f}")
                 seen.add(rec["id"])
                 recs.append(rec)
-        write_jsonl(out_dir / f"{src.name}.jsonl", recs)
         print(f"{src.name}: {len(recs)} conversations, {sum(len(r['messages']) for r in recs)} messages")
         everything += recs
     write_jsonl(out_dir / "all.jsonl", everything)
