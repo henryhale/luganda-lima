@@ -1,16 +1,3 @@
----
-pretty_name: luganda-lima
-language:
-- lg
-task_categories:
-- text-generation
-size_categories:
-- n<1K
-configs:
-- config_name: default
-  data_files: processed/all.jsonl
----
-
 # luganda-lima
 
 A small set of synthetic, multi-turn Luganda user–assistant conversations for
@@ -37,5 +24,5 @@ are in `data/`; rebuild with `python preprocess.py`.
 ## Acknowledgements
 
 Conversations were generated with ChatGPT 5.5 (OpenAI), Gemini 3.8 Flash (Google)
-and Qwen3.7-Plus (Alibaba Qwen team). The name follows LIMA: Less Is More for
-Alignment (Zhou et al., 2023).
+and Qwen3.7-Plus (Alibaba Qwen team). The name follows [LIMA: Less Is More for
+Alignment](https://arxiv.org/abs/2305.11206) (Zhou et al., 2023).
